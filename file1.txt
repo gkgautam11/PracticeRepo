@@ -1,4 +1,5 @@
-Adding to get conflicts
+Adding to get conflicts2
+Adding to get conflicts1
 first commit file1.txt
 2 commit file1.txt
 
