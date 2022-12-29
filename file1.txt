@@ -2,6 +2,11 @@ Adding to get conflicts3
 Adding to get conflicts2
 Adding to get conflicts1
 Adding to get conflicts1.1
+Adding component add BUG2
+
 first commit file1.txt
 2 commit file1.txt
+
+Adding component add BUG1
+
 
